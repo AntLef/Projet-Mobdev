@@ -1,0 +1,27 @@
+
+#header {
+    text-align: center;
+    background-color: #cdcdcd;
+    padding : 20px;
+    margin-bottom:20px;
+    
+}
+#header span {
+    padding-left:100px;
+    
+}
+
+table, tr, td{
+    border: solid 1px black;
+    text-align : center;
+}
+table {
+    margin-top: 50px;
+}
+
+#submit, #postulage {
+    border: solid 2px red;
+    padding:5px;
+    margin:10px;
+    margin-top: 500px;
+}
